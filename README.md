@@ -1,0 +1,2 @@
+# postgresql_user_administration
+Python scripted Postgresql user administration commands
