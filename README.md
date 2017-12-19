@@ -3,7 +3,7 @@ Python scripted Postgresql user administration commands
 
 This is a repository of postgresql user administration commands that can be ran in either Python shell or the Command environment.
 
-Various aministration scripts:
+Various administration scripts:
 
 Create Superuser - This script creates a superuser account that gives all read and write access
 to the database.
