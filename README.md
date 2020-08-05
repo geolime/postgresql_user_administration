@@ -1,5 +1,5 @@
 # Postgresql User Administration
-Variou Python scripted Postgresql user administration commands.
+Various Python scripted Postgresql user administration commands.
 
 This is a repository of postgresql user administration commands that can be ran in either Python shell or the Command environment.
 
